@@ -11,7 +11,7 @@
 |No.|Category|Link To Catalogue|
 |---|--------|-----------------|
 |1.|Alphabetic Patterns|<a href="https://github.com/PatternHouse/JavaScript-PatternHouse/blob/main/Alphabetic%20Patterns/README.md"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
-|2.|Numeric Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
+|2.|Numeric Patterns|<a href="https://github.com/PatternHouse/JavaScript-PatternHouse/tree/main/Numeric%20Patterns"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |3.|Symbol Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |4.|Pyramid Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |5.|String Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
