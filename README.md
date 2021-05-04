@@ -16,5 +16,5 @@
 |4.|Pyramid Patterns|<a href="https://github.com/PatternHouse/JavaScript-PatternHouse/tree/main/Pyramid%20Patterns"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |5.|String Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |6.|Spiral Patterns|<a href="Add Link To README"><img align="centre" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
-|7.|Series Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
+|7.|Series Patterns|<a href="https://github.com/PatternHouse/JavaScript-PatternHouse/tree/main/Series%20Patterns"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
 |8.|Wave Patterns|<a href="Add Link To README"><img align="center" alt="Patterns" width="80px" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Catalogue.png" /></a>|
